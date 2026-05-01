@@ -1,0 +1,10 @@
+Student Performance Analysis using Python + Power BI
+
+Problem Statement:
+Analyze attendance, study hours, assignment scores, and marks to identify factors affecting student performance.
+
+Tools Used:
+Python, Pandas, Matplotlib, Excel, Power BI
+
+Conclusion:
+Higher attendance and study hours improve final marks.
